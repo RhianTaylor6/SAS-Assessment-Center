@@ -1,0 +1,1001 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+female,group B,bachelor's degree,standard,none,72.00,72.00,74.00
+female,group C,some college,standard,completed,69.00,90.00,88.00
+female,group B,master's degree,standard,none,90.00,95.00,93.00
+male,group A,associate's degree,free/reduced,none,47.00,57.00,44.00
+male,group C,some college,standard,none,76.00,78.00,75.00
+female,group B,associate's degree,standard,none,71.00,83.00,78.00
+female,group B,some college,standard,completed,88.00,95.00,92.00
+male,group B,some college,free/reduced,none,40.00,43.00,39.00
+male,group D,high school,free/reduced,completed,64.00,64.00,67.00
+female,group B,high school,free/reduced,none,38.00,60.00,50.00
+male,group C,associate's degree,standard,none,58.00,54.00,52.00
+male,group D,associate's degree,standard,none,40.00,52.00,43.00
+female,group B,high school,standard,none,65.00,81.00,73.00
+male,group A,some college,standard,completed,78.00,72.00,70.00
+female,group A,master's degree,standard,none,50.00,53.00,58.00
+female,group C,some high school,standard,none,69.00,75.00,78.00
+male,group C,high school,standard,none,88.00,89.00,86.00
+female,group B,some high school,free/reduced,none,18.00,32.00,28.00
+male,group C,master's degree,free/reduced,completed,46.00,42.00,46.00
+female,group C,associate's degree,free/reduced,none,54.00,58.00,61.00
+male,group D,high school,standard,none,66.00,69.00,63.00
+female,group B,some college,free/reduced,completed,65.00,75.00,70.00
+male,group D,some college,standard,none,44.00,54.00,53.00
+female,group C,some high school,standard,none,69.00,73.00,73.00
+male,group D,bachelor's degree,free/reduced,completed,74.00,71.00,80.00
+male,group A,master's degree,free/reduced,none,73.00,74.00,72.00
+male,group B,some college,standard,none,69.00,54.00,55.00
+female,group C,bachelor's degree,standard,none,67.00,69.00,75.00
+male,group C,high school,standard,none,70.00,70.00,65.00
+female,group D,master's degree,standard,none,62.00,70.00,75.00
+female,group D,some college,standard,none,69.00,74.00,74.00
+female,group B,some college,standard,none,63.00,65.00,61.00
+female,group E,master's degree,free/reduced,none,56.00,72.00,65.00
+male,group D,some college,standard,none,40.00,42.00,38.00
+male,group E,some college,standard,none,97.00,87.00,82.00
+male,group E,associate's degree,standard,completed,81.00,81.00,79.00
+female,group D,associate's degree,standard,none,74.00,81.00,83.00
+female,group D,some high school,free/reduced,none,50.00,64.00,59.00
+female,group D,associate's degree,free/reduced,completed,75.00,90.00,88.00
+male,group B,associate's degree,free/reduced,none,57.00,56.00,57.00
+male,group C,associate's degree,free/reduced,none,55.00,61.00,54.00
+female,group C,associate's degree,standard,none,58.00,73.00,68.00
+female,group B,associate's degree,standard,none,53.00,58.00,65.00
+male,group B,some college,free/reduced,completed,59.00,65.00,66.00
+female,group E,associate's degree,free/reduced,none,50.00,56.00,54.00
+male,group B,associate's degree,standard,none,65.00,54.00,57.00
+female,group A,associate's degree,standard,completed,55.00,65.00,62.00
+female,group C,high school,standard,none,66.00,71.00,76.00
+female,group D,associate's degree,free/reduced,completed,57.00,74.00,76.00
+male,group C,high school,standard,completed,82.00,84.00,82.00
+male,group E,some college,standard,none,53.00,55.00,48.00
+male,group E,associate's degree,free/reduced,completed,77.00,69.00,68.00
+male,group C,some college,standard,none,53.00,44.00,42.00
+male,group D,high school,standard,none,88.00,78.00,75.00
+female,group C,some high school,free/reduced,completed,71.00,84.00,87.00
+female,group C,high school,free/reduced,none,33.00,41.00,43.00
+female,group E,associate's degree,standard,completed,82.00,85.00,86.00
+male,group D,associate's degree,standard,none,52.00,55.00,49.00
+male,group D,some college,standard,completed,58.00,59.00,58.00
+female,group C,some high school,free/reduced,none,0.00,17.00,10.00
+male,group E,bachelor's degree,free/reduced,completed,79.00,74.00,72.00
+male,group A,some high school,free/reduced,none,39.00,39.00,34.00
+male,group A,associate's degree,free/reduced,none,62.00,61.00,55.00
+female,group C,associate's degree,standard,none,69.00,80.00,71.00
+female,group D,some high school,standard,none,59.00,58.00,59.00
+male,group B,some high school,standard,none,67.00,64.00,61.00
+male,group D,some high school,free/reduced,none,45.00,37.00,37.00
+female,group C,some college,standard,none,60.00,72.00,74.00
+male,group B,associate's degree,free/reduced,none,61.00,58.00,56.00
+female,group C,associate's degree,standard,none,39.00,64.00,57.00
+female,group D,some college,free/reduced,completed,58.00,63.00,73.00
+male,group D,some college,standard,completed,63.00,55.00,63.00
+female,group A,associate's degree,free/reduced,none,41.00,51.00,48.00
+male,group C,some high school,free/reduced,none,61.00,57.00,56.00
+male,group C,some high school,standard,none,49.00,49.00,41.00
+male,group B,associate's degree,free/reduced,none,44.00,41.00,38.00
+male,group E,some high school,standard,none,30.00,26.00,22.00
+male,group A,bachelor's degree,standard,completed,80.00,78.00,81.00
+female,group D,some high school,standard,completed,61.00,74.00,72.00
+female,group E,master's degree,standard,none,62.00,68.00,68.00
+female,group B,associate's degree,standard,none,47.00,49.00,50.00
+male,group B,high school,free/reduced,none,49.00,45.00,45.00
+male,group A,some college,free/reduced,completed,50.00,47.00,54.00
+male,group E,associate's degree,standard,none,72.00,64.00,63.00
+male,group D,high school,free/reduced,none,42.00,39.00,34.00
+female,group C,some college,standard,none,73.00,80.00,82.00
+female,group C,some college,free/reduced,none,76.00,83.00,88.00
+female,group D,associate's degree,standard,none,71.00,71.00,74.00
+female,group A,some college,standard,none,58.00,70.00,67.00
+female,group D,some high school,standard,none,73.00,86.00,82.00
+female,group C,bachelor's degree,standard,none,65.00,72.00,74.00
+male,group C,high school,free/reduced,none,27.00,34.00,36.00
+male,group C,high school,standard,none,71.00,79.00,71.00
+male,group C,associate's degree,free/reduced,completed,43.00,45.00,50.00
+female,group B,some college,standard,none,79.00,86.00,92.00
+male,group C,associate's degree,free/reduced,completed,78.00,81.00,82.00
+male,group B,some high school,standard,completed,65.00,66.00,62.00
+female,group E,some college,standard,completed,63.00,72.00,70.00
+female,group D,some college,free/reduced,none,58.00,67.00,62.00
+female,group D,bachelor's degree,standard,none,65.00,67.00,62.00
+male,group B,some college,standard,none,79.00,67.00,67.00
+male,group D,bachelor's degree,standard,completed,68.00,74.00,74.00
+female,group D,associate's degree,standard,none,85.00,91.00,89.00
+male,group B,high school,standard,completed,60.00,44.00,47.00
+male,group C,some college,standard,completed,98.00,86.00,90.00
+female,group C,some college,standard,none,58.00,67.00,72.00
+female,group D,master's degree,standard,none,87.00,100.00,100.00
+male,group E,associate's degree,standard,completed,66.00,63.00,64.00
+female,group B,associate's degree,free/reduced,none,52.00,76.00,70.00
+female,group B,some high school,standard,none,70.00,64.00,72.00
+female,group D,associate's degree,free/reduced,completed,77.00,89.00,98.00
+male,group C,high school,standard,none,62.00,55.00,49.00
+male,group A,associate's degree,standard,none,54.00,53.00,47.00
+female,group D,some college,standard,none,51.00,58.00,54.00
+female,group E,bachelor's degree,standard,completed,99.00,100.00,100.00
+male,group C,high school,standard,none,84.00,77.00,74.00
+female,group B,bachelor's degree,free/reduced,none,75.00,85.00,82.00
+female,group D,bachelor's degree,standard,none,78.00,82.00,79.00
+female,group D,some high school,standard,none,51.00,63.00,61.00
+female,group C,some college,standard,none,55.00,69.00,65.00
+female,group C,bachelor's degree,standard,completed,79.00,92.00,89.00
+male,group B,associate's degree,standard,completed,91.00,89.00,92.00
+female,group C,some college,standard,completed,88.00,93.00,93.00
+male,group D,high school,free/reduced,none,63.00,57.00,56.00
+male,group E,some college,standard,none,83.00,80.00,73.00
+female,group B,high school,standard,none,87.00,95.00,86.00
+male,group B,some high school,standard,none,72.00,68.00,67.00
+male,group D,some college,standard,completed,65.00,77.00,74.00
+male,group D,master's degree,standard,none,82.00,82.00,74.00
+female,group A,bachelor's degree,standard,none,51.00,49.00,51.00
+male,group D,master's degree,standard,none,89.00,84.00,82.00
+male,group C,some high school,free/reduced,completed,53.00,37.00,40.00
+male,group E,some college,free/reduced,completed,87.00,74.00,70.00
+female,group C,some college,standard,completed,75.00,81.00,84.00
+male,group D,bachelor's degree,free/reduced,completed,74.00,79.00,75.00
+male,group C,bachelor's degree,standard,none,58.00,55.00,48.00
+male,group B,some high school,standard,completed,51.00,54.00,41.00
+male,group E,high school,standard,none,70.00,55.00,56.00
+female,group C,associate's degree,standard,none,59.00,66.00,67.00
+male,group D,some college,standard,completed,71.00,61.00,69.00
+female,group D,some high school,standard,none,76.00,72.00,71.00
+female,group C,some college,free/reduced,none,59.00,62.00,64.00
+female,group E,some college,free/reduced,completed,42.00,55.00,54.00
+male,group A,high school,standard,none,57.00,43.00,47.00
+male,group D,some college,standard,none,88.00,73.00,78.00
+female,group C,some college,free/reduced,none,22.00,39.00,33.00
+male,group B,some high school,standard,none,88.00,84.00,75.00
+male,group C,associate's degree,free/reduced,none,73.00,68.00,66.00
+female,group D,bachelor's degree,standard,completed,68.00,75.00,81.00
+male,group E,associate's degree,free/reduced,completed,100.00,100.00,93.00
+male,group A,some high school,standard,completed,62.00,67.00,69.00
+male,group A,bachelor's degree,standard,none,77.00,67.00,68.00
+female,group B,associate's degree,standard,completed,59.00,70.00,66.00
+male,group D,bachelor's degree,standard,none,54.00,49.00,47.00
+male,group D,some high school,standard,none,62.00,67.00,61.00
+female,group C,some college,standard,completed,70.00,89.00,88.00
+female,group E,high school,free/reduced,completed,66.00,74.00,78.00
+male,group B,some college,free/reduced,none,60.00,60.00,60.00
+female,group B,associate's degree,standard,completed,61.00,86.00,87.00
+male,group D,associate's degree,free/reduced,none,66.00,62.00,64.00
+male,group B,associate's degree,free/reduced,completed,82.00,78.00,74.00
+female,group E,some college,free/reduced,completed,75.00,88.00,85.00
+male,group B,master's degree,free/reduced,none,49.00,53.00,52.00
+male,group C,high school,standard,none,52.00,53.00,49.00
+female,group E,master's degree,standard,none,81.00,92.00,91.00
+female,group C,bachelor's degree,standard,completed,96.00,100.00,100.00
+male,group C,high school,free/reduced,completed,53.00,51.00,51.00
+female,group B,master's degree,free/reduced,completed,58.00,76.00,78.00
+female,group B,high school,standard,completed,68.00,83.00,78.00
+female,group C,some college,free/reduced,completed,67.00,75.00,70.00
+male,group A,high school,standard,completed,72.00,73.00,74.00
+male,group E,some high school,standard,none,94.00,88.00,78.00
+female,group D,some college,standard,none,79.00,86.00,81.00
+female,group C,associate's degree,standard,none,63.00,67.00,70.00
+female,group C,bachelor's degree,free/reduced,completed,43.00,51.00,54.00
+female,group C,master's degree,standard,completed,81.00,91.00,87.00
+female,group B,high school,free/reduced,completed,46.00,54.00,58.00
+female,group C,associate's degree,standard,completed,71.00,77.00,77.00
+female,group B,master's degree,free/reduced,completed,52.00,70.00,62.00
+female,group D,some high school,standard,completed,97.00,100.00,100.00
+male,group C,master's degree,free/reduced,completed,62.00,68.00,75.00
+female,group C,some college,free/reduced,none,46.00,64.00,66.00
+female,group E,high school,standard,none,50.00,50.00,47.00
+female,group D,associate's degree,standard,none,65.00,69.00,70.00
+male,group C,some high school,free/reduced,completed,45.00,52.00,49.00
+male,group C,associate's degree,free/reduced,completed,65.00,67.00,65.00
+male,group E,high school,standard,none,80.00,76.00,65.00
+male,group D,some high school,standard,completed,62.00,66.00,68.00
+male,group B,some high school,free/reduced,none,48.00,52.00,45.00
+female,group C,bachelor's degree,standard,none,77.00,88.00,87.00
+female,group E,associate's degree,standard,none,66.00,65.00,69.00
+male,group D,some college,standard,completed,76.00,83.00,79.00
+female,group B,some high school,standard,none,62.00,64.00,66.00
+male,group D,some college,standard,completed,77.00,62.00,62.00
+female,group C,master's degree,standard,completed,69.00,84.00,85.00
+male,group D,associate's degree,standard,none,61.00,55.00,52.00
+male,group C,some high school,free/reduced,completed,59.00,69.00,65.00
+male,group E,high school,free/reduced,none,55.00,56.00,51.00
+female,group B,some college,free/reduced,none,45.00,53.00,55.00
+female,group B,bachelor's degree,free/reduced,none,78.00,79.00,76.00
+female,group C,associate's degree,standard,completed,67.00,84.00,86.00
+female,group D,some college,free/reduced,none,65.00,81.00,77.00
+male,group C,associate's degree,standard,none,69.00,77.00,69.00
+female,group B,associate's degree,standard,none,57.00,69.00,68.00
+male,group C,some college,standard,none,59.00,41.00,42.00
+male,group D,some high school,standard,completed,74.00,71.00,78.00
+male,group E,bachelor's degree,standard,none,82.00,62.00,62.00
+male,group E,high school,standard,completed,81.00,80.00,76.00
+female,group B,some college,free/reduced,none,74.00,81.00,76.00
+female,group B,some college,free/reduced,none,58.00,61.00,66.00
+male,group D,some high school,free/reduced,completed,80.00,79.00,79.00
+male,group C,some college,free/reduced,none,35.00,28.00,27.00
+female,group C,high school,free/reduced,none,42.00,62.00,60.00
+male,group C,associate's degree,free/reduced,completed,60.00,51.00,56.00
+male,group E,high school,standard,completed,87.00,91.00,81.00
+male,group B,some high school,standard,completed,84.00,83.00,75.00
+female,group E,associate's degree,free/reduced,completed,83.00,86.00,88.00
+female,group C,high school,free/reduced,none,34.00,42.00,39.00
+male,group B,high school,free/reduced,none,66.00,77.00,70.00
+male,group B,some high school,standard,completed,61.00,56.00,56.00
+female,group D,high school,standard,completed,56.00,68.00,74.00
+male,group B,associate's degree,standard,none,87.00,85.00,73.00
+female,group C,some high school,free/reduced,none,55.00,65.00,62.00
+male,group D,some high school,standard,none,86.00,80.00,75.00
+female,group B,associate's degree,standard,completed,52.00,66.00,73.00
+female,group E,master's degree,free/reduced,none,45.00,56.00,54.00
+female,group C,some college,standard,none,72.00,72.00,71.00
+male,group D,high school,standard,none,57.00,50.00,54.00
+male,group A,some high school,free/reduced,none,68.00,72.00,64.00
+female,group C,some college,standard,completed,88.00,95.00,94.00
+male,group D,some college,standard,none,76.00,64.00,66.00
+male,group C,associate's degree,standard,none,46.00,43.00,42.00
+female,group B,bachelor's degree,standard,none,67.00,86.00,83.00
+male,group E,some high school,standard,none,92.00,87.00,78.00
+male,group C,bachelor's degree,standard,completed,83.00,82.00,84.00
+male,group D,associate's degree,standard,none,80.00,75.00,77.00
+male,group D,bachelor's degree,free/reduced,none,63.00,66.00,67.00
+female,group D,some high school,standard,completed,64.00,60.00,74.00
+male,group B,some college,standard,none,54.00,52.00,51.00
+male,group C,associate's degree,standard,none,84.00,80.00,80.00
+male,group D,high school,free/reduced,completed,73.00,68.00,66.00
+female,group E,bachelor's degree,standard,none,80.00,83.00,83.00
+female,group D,high school,standard,none,56.00,52.00,55.00
+male,group E,some college,standard,none,59.00,51.00,43.00
+male,group D,some high school,standard,none,75.00,74.00,69.00
+male,group C,associate's degree,standard,none,85.00,76.00,71.00
+male,group E,associate's degree,standard,none,89.00,76.00,74.00
+female,group B,high school,standard,completed,58.00,70.00,68.00
+female,group B,high school,standard,none,65.00,64.00,62.00
+male,group C,high school,standard,none,68.00,60.00,53.00
+male,group A,some high school,standard,completed,47.00,49.00,49.00
+female,group D,some college,free/reduced,none,71.00,83.00,83.00
+female,group B,some high school,standard,completed,60.00,70.00,70.00
+male,group D,master's degree,standard,none,80.00,80.00,72.00
+male,group D,high school,standard,none,54.00,52.00,52.00
+female,group E,some college,standard,none,62.00,73.00,70.00
+female,group C,associate's degree,free/reduced,none,64.00,73.00,68.00
+male,group C,associate's degree,standard,completed,78.00,77.00,77.00
+female,group B,some college,standard,none,70.00,75.00,78.00
+female,group C,master's degree,free/reduced,completed,65.00,81.00,81.00
+female,group C,some high school,free/reduced,completed,64.00,79.00,77.00
+male,group C,some college,standard,completed,79.00,79.00,78.00
+female,group C,some high school,free/reduced,none,44.00,50.00,51.00
+female,group E,high school,standard,none,99.00,93.00,90.00
+male,group D,high school,standard,none,76.00,73.00,68.00
+male,group D,some high school,free/reduced,none,59.00,42.00,41.00
+female,group C,bachelor's degree,standard,none,63.00,75.00,81.00
+female,group D,high school,standard,none,69.00,72.00,77.00
+female,group D,associate's degree,standard,completed,88.00,92.00,95.00
+female,group E,some college,free/reduced,none,71.00,76.00,70.00
+male,group C,bachelor's degree,standard,none,69.00,63.00,61.00
+male,group C,some college,standard,none,58.00,49.00,42.00
+female,group D,associate's degree,free/reduced,none,47.00,53.00,58.00
+female,group D,some college,standard,none,65.00,70.00,71.00
+male,group B,some college,standard,completed,88.00,85.00,76.00
+male,group C,bachelor's degree,standard,none,83.00,78.00,73.00
+female,group C,some high school,standard,completed,85.00,92.00,93.00
+female,group E,high school,standard,completed,59.00,63.00,75.00
+female,group C,some high school,free/reduced,none,65.00,86.00,80.00
+male,group B,bachelor's degree,free/reduced,none,73.00,56.00,57.00
+male,group D,high school,standard,none,53.00,52.00,42.00
+male,group D,high school,standard,none,45.00,48.00,46.00
+female,group D,bachelor's degree,free/reduced,none,73.00,79.00,84.00
+female,group D,some college,free/reduced,completed,70.00,78.00,78.00
+female,group B,some high school,standard,none,37.00,46.00,46.00
+male,group B,associate's degree,standard,completed,81.00,82.00,82.00
+male,group E,associate's degree,standard,completed,97.00,82.00,88.00
+female,group B,some high school,standard,none,67.00,89.00,82.00
+male,group B,bachelor's degree,free/reduced,none,88.00,75.00,76.00
+male,group E,some high school,standard,completed,77.00,76.00,77.00
+male,group C,associate's degree,standard,none,76.00,70.00,68.00
+male,group D,some high school,standard,none,86.00,73.00,70.00
+male,group C,some high school,standard,completed,63.00,60.00,57.00
+female,group E,bachelor's degree,standard,none,65.00,73.00,75.00
+male,group D,high school,free/reduced,completed,78.00,77.00,80.00
+male,group B,associate's degree,free/reduced,none,67.00,62.00,60.00
+male,group A,some high school,standard,completed,46.00,41.00,43.00
+male,group E,associate's degree,standard,completed,71.00,74.00,68.00
+male,group C,high school,free/reduced,completed,40.00,46.00,50.00
+male,group D,associate's degree,free/reduced,none,90.00,87.00,75.00
+male,group A,some college,free/reduced,completed,81.00,78.00,81.00
+male,group D,some high school,free/reduced,none,56.00,54.00,52.00
+female,group C,associate's degree,standard,completed,67.00,84.00,81.00
+male,group B,associate's degree,standard,none,80.00,76.00,64.00
+female,group C,associate's degree,standard,completed,74.00,75.00,83.00
+male,group A,some college,standard,none,69.00,67.00,69.00
+male,group E,some college,standard,completed,99.00,87.00,81.00
+male,group C,some high school,standard,none,51.00,52.00,44.00
+female,group B,associate's degree,free/reduced,none,53.00,71.00,67.00
+female,group D,high school,free/reduced,none,49.00,57.00,52.00
+female,group B,associate's degree,standard,none,73.00,76.00,80.00
+male,group B,bachelor's degree,standard,none,66.00,60.00,57.00
+male,group D,bachelor's degree,standard,completed,67.00,61.00,68.00
+female,group C,associate's degree,free/reduced,completed,68.00,67.00,69.00
+female,group C,bachelor's degree,standard,completed,59.00,64.00,75.00
+male,group C,high school,standard,none,71.00,66.00,65.00
+female,group D,master's degree,standard,completed,77.00,82.00,91.00
+male,group C,associate's degree,standard,none,83.00,72.00,78.00
+male,group B,bachelor's degree,standard,none,63.00,71.00,69.00
+female,group D,associate's degree,free/reduced,none,56.00,65.00,63.00
+female,group C,high school,free/reduced,completed,67.00,79.00,84.00
+female,group E,high school,standard,none,75.00,86.00,79.00
+female,group C,some college,standard,none,71.00,81.00,80.00
+female,group C,some high school,free/reduced,none,43.00,53.00,53.00
+female,group C,high school,free/reduced,none,41.00,46.00,43.00
+female,group C,some college,standard,none,82.00,90.00,94.00
+male,group C,some college,standard,none,61.00,61.00,62.00
+male,group A,some college,free/reduced,none,28.00,23.00,19.00
+male,group C,associate's degree,standard,completed,82.00,75.00,77.00
+female,group B,some high school,standard,none,41.00,55.00,51.00
+male,group C,high school,standard,none,71.00,60.00,61.00
+male,group C,associate's degree,standard,none,47.00,37.00,35.00
+male,group E,associate's degree,standard,completed,62.00,56.00,53.00
+male,group B,associate's degree,standard,none,90.00,78.00,81.00
+female,group C,bachelor's degree,standard,none,83.00,93.00,95.00
+female,group B,some college,free/reduced,none,61.00,68.00,66.00
+male,group D,some high school,standard,completed,76.00,70.00,69.00
+male,group C,associate's degree,standard,none,49.00,51.00,43.00
+female,group B,some high school,free/reduced,none,24.00,38.00,27.00
+female,group D,some high school,free/reduced,completed,35.00,55.00,60.00
+male,group C,high school,free/reduced,none,58.00,61.00,52.00
+female,group C,high school,standard,none,61.00,73.00,63.00
+female,group B,high school,standard,completed,69.00,76.00,74.00
+male,group D,associate's degree,standard,completed,67.00,72.00,67.00
+male,group D,some college,standard,none,79.00,73.00,67.00
+female,group C,high school,standard,none,72.00,80.00,75.00
+male,group B,some college,standard,none,62.00,61.00,57.00
+female,group C,bachelor's degree,standard,completed,77.00,94.00,95.00
+male,group D,high school,free/reduced,none,75.00,74.00,66.00
+male,group E,associate's degree,standard,none,87.00,74.00,76.00
+female,group B,bachelor's degree,standard,none,52.00,65.00,69.00
+male,group E,some college,standard,none,66.00,57.00,52.00
+female,group C,some college,standard,completed,63.00,78.00,80.00
+female,group C,associate's degree,standard,none,46.00,58.00,57.00
+female,group C,some college,standard,none,59.00,71.00,70.00
+female,group B,bachelor's degree,standard,none,61.00,72.00,70.00
+male,group A,associate's degree,standard,none,63.00,61.00,61.00
+female,group C,some college,free/reduced,completed,42.00,66.00,69.00
+male,group D,some college,free/reduced,none,59.00,62.00,61.00
+female,group D,some college,standard,none,80.00,90.00,89.00
+female,group B,high school,standard,none,58.00,62.00,59.00
+male,group B,some high school,standard,completed,85.00,84.00,78.00
+female,group C,some college,standard,none,52.00,58.00,58.00
+female,group D,some high school,free/reduced,none,27.00,34.00,32.00
+male,group C,some college,standard,none,59.00,60.00,58.00
+male,group A,bachelor's degree,free/reduced,completed,49.00,58.00,60.00
+male,group C,high school,standard,completed,69.00,58.00,53.00
+male,group C,bachelor's degree,free/reduced,none,61.00,66.00,61.00
+female,group A,some high school,free/reduced,none,44.00,64.00,58.00
+female,group D,some high school,standard,none,73.00,84.00,85.00
+male,group E,some college,standard,none,84.00,77.00,71.00
+female,group C,some college,free/reduced,completed,45.00,73.00,70.00
+male,group D,some high school,standard,none,74.00,74.00,72.00
+female,group D,some college,standard,completed,82.00,97.00,96.00
+female,group D,bachelor's degree,standard,none,59.00,70.00,73.00
+male,group E,associate's degree,free/reduced,none,46.00,43.00,41.00
+female,group D,some high school,standard,none,80.00,90.00,82.00
+female,group D,master's degree,free/reduced,completed,85.00,95.00,100.00
+female,group A,some high school,standard,none,71.00,83.00,77.00
+male,group A,bachelor's degree,standard,none,66.00,64.00,62.00
+female,group B,associate's degree,standard,none,80.00,86.00,83.00
+male,group C,associate's degree,standard,completed,87.00,100.00,95.00
+male,group C,master's degree,free/reduced,none,79.00,81.00,71.00
+female,group E,some high school,free/reduced,none,38.00,49.00,45.00
+female,group A,some high school,free/reduced,none,38.00,43.00,43.00
+female,group E,some college,standard,none,67.00,76.00,75.00
+female,group E,bachelor's degree,standard,none,64.00,73.00,70.00
+female,group C,associate's degree,free/reduced,none,57.00,78.00,67.00
+female,group D,high school,standard,none,62.00,64.00,64.00
+male,group D,master's degree,standard,none,73.00,70.00,75.00
+male,group E,some high school,free/reduced,completed,73.00,67.00,59.00
+female,group D,some college,standard,none,77.00,68.00,77.00
+male,group E,some college,standard,none,76.00,67.00,67.00
+male,group C,associate's degree,standard,completed,57.00,54.00,56.00
+female,group C,some high school,standard,completed,65.00,74.00,77.00
+male,group A,high school,free/reduced,none,48.00,45.00,41.00
+female,group B,high school,free/reduced,none,50.00,67.00,63.00
+female,group C,associate's degree,standard,none,85.00,89.00,95.00
+male,group B,some high school,standard,none,74.00,63.00,57.00
+male,group D,some high school,standard,none,60.00,59.00,54.00
+female,group C,some high school,standard,completed,59.00,54.00,67.00
+male,group A,some college,standard,none,53.00,43.00,43.00
+female,group A,some college,free/reduced,none,49.00,65.00,55.00
+female,group D,high school,standard,completed,88.00,99.00,100.00
+female,group C,high school,standard,none,54.00,59.00,62.00
+female,group C,some high school,standard,none,63.00,73.00,68.00
+male,group B,associate's degree,standard,completed,65.00,65.00,63.00
+female,group B,associate's degree,standard,none,82.00,80.00,77.00
+female,group D,high school,free/reduced,completed,52.00,57.00,56.00
+male,group D,associate's degree,standard,completed,87.00,84.00,85.00
+female,group D,master's degree,standard,completed,70.00,71.00,74.00
+male,group E,some college,standard,completed,84.00,83.00,78.00
+male,group D,associate's degree,standard,none,71.00,66.00,60.00
+male,group B,some high school,standard,completed,63.00,67.00,67.00
+female,group C,bachelor's degree,free/reduced,completed,51.00,72.00,79.00
+male,group E,high school,standard,none,84.00,73.00,69.00
+male,group C,bachelor's degree,standard,completed,71.00,74.00,68.00
+male,group C,associate's degree,standard,none,74.00,73.00,67.00
+male,group D,some college,standard,none,68.00,59.00,62.00
+male,group E,high school,free/reduced,completed,57.00,56.00,54.00
+female,group C,associate's degree,free/reduced,completed,82.00,93.00,93.00
+female,group D,high school,standard,completed,57.00,58.00,64.00
+female,group D,master's degree,free/reduced,completed,47.00,58.00,67.00
+female,group A,some high school,standard,completed,59.00,85.00,80.00
+male,group B,some college,free/reduced,none,41.00,39.00,34.00
+female,group C,some college,free/reduced,none,62.00,67.00,62.00
+male,group C,bachelor's degree,standard,none,86.00,83.00,86.00
+male,group C,some high school,free/reduced,none,69.00,71.00,65.00
+male,group A,some high school,free/reduced,none,65.00,59.00,53.00
+male,group C,some high school,free/reduced,none,68.00,63.00,54.00
+male,group C,associate's degree,free/reduced,none,64.00,66.00,59.00
+female,group C,high school,standard,none,61.00,72.00,70.00
+male,group C,high school,standard,none,61.00,56.00,55.00
+female,group A,some high school,free/reduced,none,47.00,59.00,50.00
+male,group C,some high school,standard,none,73.00,66.00,66.00
+male,group C,some college,free/reduced,completed,50.00,48.00,53.00
+male,group D,associate's degree,standard,none,75.00,68.00,64.00
+male,group D,associate's degree,free/reduced,none,75.00,66.00,73.00
+male,group C,high school,standard,none,70.00,56.00,51.00
+male,group D,some high school,standard,completed,89.00,88.00,82.00
+female,group C,some college,standard,completed,67.00,81.00,79.00
+female,group D,high school,standard,none,78.00,81.00,80.00
+female,group A,some high school,free/reduced,none,59.00,73.00,69.00
+female,group B,associate's degree,standard,none,73.00,83.00,76.00
+male,group A,some high school,free/reduced,none,79.00,82.00,73.00
+female,group C,some high school,standard,completed,67.00,74.00,77.00
+male,group D,some college,free/reduced,none,69.00,66.00,60.00
+male,group C,high school,standard,completed,86.00,81.00,80.00
+male,group B,high school,standard,none,47.00,46.00,42.00
+male,group B,associate's degree,standard,none,81.00,73.00,72.00
+female,group C,some college,free/reduced,completed,64.00,85.00,85.00
+female,group E,some college,standard,none,100.00,92.00,97.00
+female,group C,associate's degree,free/reduced,none,65.00,77.00,74.00
+male,group C,some college,free/reduced,none,65.00,58.00,49.00
+female,group C,associate's degree,free/reduced,none,53.00,61.00,62.00
+male,group C,bachelor's degree,free/reduced,none,37.00,56.00,47.00
+female,group D,bachelor's degree,standard,none,79.00,89.00,89.00
+male,group D,associate's degree,free/reduced,none,53.00,54.00,48.00
+female,group E,bachelor's degree,standard,none,100.00,100.00,100.00
+male,group B,high school,standard,completed,72.00,65.00,68.00
+male,group C,bachelor's degree,free/reduced,none,53.00,58.00,55.00
+male,group B,some college,free/reduced,none,54.00,54.00,45.00
+female,group E,some college,standard,none,71.00,70.00,76.00
+female,group C,some college,free/reduced,none,77.00,90.00,91.00
+male,group A,bachelor's degree,standard,completed,75.00,58.00,62.00
+female,group C,some college,standard,none,84.00,87.00,91.00
+female,group D,associate's degree,free/reduced,none,26.00,31.00,38.00
+male,group A,high school,free/reduced,completed,72.00,67.00,65.00
+female,group A,high school,free/reduced,completed,77.00,88.00,85.00
+male,group C,some college,standard,none,91.00,74.00,76.00
+female,group C,associate's degree,standard,completed,83.00,85.00,90.00
+female,group C,high school,standard,none,63.00,69.00,74.00
+female,group C,associate's degree,standard,completed,68.00,86.00,84.00
+female,group D,some high school,standard,none,59.00,67.00,61.00
+female,group B,associate's degree,standard,completed,90.00,90.00,91.00
+female,group D,bachelor's degree,standard,completed,71.00,76.00,83.00
+male,group E,bachelor's degree,standard,completed,76.00,62.00,66.00
+male,group D,associate's degree,standard,none,80.00,68.00,72.00
+female,group D,master's degree,standard,none,55.00,64.00,70.00
+male,group E,associate's degree,standard,none,76.00,71.00,67.00
+male,group B,high school,standard,completed,73.00,71.00,68.00
+female,group D,associate's degree,free/reduced,none,52.00,59.00,56.00
+male,group C,some college,free/reduced,none,68.00,68.00,61.00
+male,group A,high school,standard,none,59.00,52.00,46.00
+female,group B,associate's degree,standard,none,49.00,52.00,54.00
+male,group C,high school,standard,none,70.00,74.00,71.00
+male,group D,some college,free/reduced,none,61.00,47.00,56.00
+female,group C,associate's degree,free/reduced,none,60.00,75.00,74.00
+male,group B,some high school,standard,completed,64.00,53.00,57.00
+male,group A,associate's degree,free/reduced,completed,79.00,82.00,82.00
+female,group A,associate's degree,free/reduced,none,65.00,85.00,76.00
+female,group C,associate's degree,standard,none,64.00,64.00,70.00
+female,group C,some college,standard,none,83.00,83.00,90.00
+female,group C,bachelor's degree,standard,none,81.00,88.00,90.00
+female,group B,high school,standard,none,54.00,64.00,68.00
+male,group D,high school,standard,completed,68.00,64.00,66.00
+female,group C,some college,standard,none,54.00,48.00,52.00
+female,group D,some college,free/reduced,completed,59.00,78.00,76.00
+female,group B,some high school,standard,none,66.00,69.00,68.00
+male,group E,some college,standard,none,76.00,71.00,72.00
+female,group D,master's degree,standard,none,74.00,79.00,82.00
+female,group B,associate's degree,standard,completed,94.00,87.00,92.00
+male,group C,some college,free/reduced,none,63.00,61.00,54.00
+female,group E,associate's degree,standard,completed,95.00,89.00,92.00
+female,group D,master's degree,free/reduced,none,40.00,59.00,54.00
+female,group B,some high school,standard,none,82.00,82.00,80.00
+male,group A,high school,standard,none,68.00,70.00,66.00
+male,group B,bachelor's degree,free/reduced,none,55.00,59.00,54.00
+male,group C,master's degree,standard,none,79.00,78.00,77.00
+female,group C,bachelor's degree,standard,none,86.00,92.00,87.00
+male,group D,some college,standard,none,76.00,71.00,73.00
+male,group A,some high school,standard,none,64.00,50.00,43.00
+male,group D,some high school,free/reduced,none,62.00,49.00,52.00
+female,group B,some high school,standard,completed,54.00,61.00,62.00
+female,group B,master's degree,free/reduced,completed,77.00,97.00,94.00
+female,group C,some high school,standard,completed,76.00,87.00,85.00
+female,group D,some college,standard,none,74.00,89.00,84.00
+female,group E,some college,standard,completed,66.00,74.00,73.00
+female,group D,some high school,standard,completed,66.00,78.00,78.00
+female,group B,high school,free/reduced,completed,67.00,78.00,79.00
+male,group D,some college,standard,none,71.00,49.00,52.00
+female,group C,associate's degree,standard,none,91.00,86.00,84.00
+male,group D,bachelor's degree,standard,none,69.00,58.00,57.00
+male,group C,master's degree,free/reduced,none,54.00,59.00,50.00
+male,group C,high school,standard,completed,53.00,52.00,49.00
+male,group E,some college,standard,none,68.00,60.00,59.00
+male,group C,some high school,free/reduced,completed,56.00,61.00,60.00
+female,group C,high school,free/reduced,none,36.00,53.00,43.00
+female,group D,bachelor's degree,free/reduced,none,29.00,41.00,47.00
+female,group C,associate's degree,standard,none,62.00,74.00,70.00
+female,group C,associate's degree,standard,completed,68.00,67.00,73.00
+female,group C,some high school,standard,none,47.00,54.00,53.00
+male,group E,associate's degree,standard,completed,62.00,61.00,58.00
+female,group E,associate's degree,standard,completed,79.00,88.00,94.00
+male,group B,high school,standard,completed,73.00,69.00,68.00
+female,group C,bachelor's degree,free/reduced,completed,66.00,83.00,83.00
+male,group C,associate's degree,standard,completed,51.00,60.00,58.00
+female,group D,high school,standard,none,51.00,66.00,62.00
+male,group E,bachelor's degree,standard,completed,85.00,66.00,71.00
+male,group A,associate's degree,standard,completed,97.00,92.00,86.00
+male,group C,high school,standard,completed,75.00,69.00,68.00
+male,group D,associate's degree,free/reduced,completed,79.00,82.00,80.00
+female,group C,associate's degree,standard,none,81.00,77.00,79.00
+female,group D,associate's degree,standard,none,82.00,95.00,89.00
+female,group D,master's degree,standard,none,64.00,63.00,66.00
+male,group E,some high school,free/reduced,completed,78.00,83.00,80.00
+female,group A,some high school,standard,completed,92.00,100.00,97.00
+male,group C,high school,standard,completed,72.00,67.00,64.00
+female,group C,high school,free/reduced,none,62.00,67.00,64.00
+male,group C,master's degree,standard,none,79.00,72.00,69.00
+male,group C,some high school,free/reduced,none,79.00,76.00,65.00
+male,group B,bachelor's degree,free/reduced,completed,87.00,90.00,88.00
+female,group B,associate's degree,standard,none,40.00,48.00,50.00
+male,group D,some college,free/reduced,none,77.00,62.00,64.00
+male,group E,associate's degree,standard,none,53.00,45.00,40.00
+female,group C,some college,free/reduced,none,32.00,39.00,33.00
+female,group C,associate's degree,standard,completed,55.00,72.00,79.00
+male,group C,master's degree,free/reduced,none,61.00,67.00,66.00
+female,group B,associate's degree,free/reduced,none,53.00,70.00,70.00
+male,group D,some high school,standard,none,73.00,66.00,62.00
+female,group D,some college,standard,completed,74.00,75.00,79.00
+female,group C,some college,standard,none,63.00,74.00,74.00
+male,group C,bachelor's degree,standard,completed,96.00,90.00,92.00
+female,group D,some college,free/reduced,completed,63.00,80.00,80.00
+male,group B,bachelor's degree,free/reduced,none,48.00,51.00,46.00
+male,group B,associate's degree,standard,none,48.00,43.00,45.00
+female,group E,bachelor's degree,free/reduced,completed,92.00,100.00,100.00
+female,group D,master's degree,free/reduced,completed,61.00,71.00,78.00
+male,group B,high school,free/reduced,none,63.00,48.00,47.00
+male,group D,bachelor's degree,free/reduced,none,68.00,68.00,67.00
+male,group B,some college,standard,completed,71.00,75.00,70.00
+male,group A,bachelor's degree,standard,none,91.00,96.00,92.00
+female,group C,some college,standard,none,53.00,62.00,56.00
+female,group C,high school,free/reduced,completed,50.00,66.00,64.00
+female,group E,high school,standard,none,74.00,81.00,71.00
+male,group A,associate's degree,free/reduced,completed,40.00,55.00,53.00
+male,group A,some college,standard,completed,61.00,51.00,52.00
+female,group B,high school,standard,none,81.00,91.00,89.00
+female,group B,some college,free/reduced,completed,48.00,56.00,58.00
+female,group D,master's degree,standard,none,53.00,61.00,68.00
+female,group D,some high school,standard,none,81.00,97.00,96.00
+female,group E,some high school,standard,none,77.00,79.00,80.00
+female,group D,bachelor's degree,free/reduced,none,63.00,73.00,78.00
+female,group D,associate's degree,standard,completed,73.00,75.00,80.00
+female,group D,some college,standard,none,69.00,77.00,77.00
+female,group C,associate's degree,standard,none,65.00,76.00,76.00
+female,group A,high school,standard,none,55.00,73.00,73.00
+female,group C,bachelor's degree,free/reduced,none,44.00,63.00,62.00
+female,group C,some college,standard,none,54.00,64.00,65.00
+female,group A,some high school,standard,none,48.00,66.00,65.00
+male,group C,some college,free/reduced,none,58.00,57.00,54.00
+male,group A,some high school,standard,none,71.00,62.00,50.00
+male,group E,bachelor's degree,standard,none,68.00,68.00,64.00
+female,group E,high school,standard,none,74.00,76.00,73.00
+female,group C,bachelor's degree,standard,completed,92.00,100.00,99.00
+female,group C,bachelor's degree,standard,completed,56.00,79.00,72.00
+male,group B,high school,free/reduced,none,30.00,24.00,15.00
+male,group A,some high school,standard,none,53.00,54.00,48.00
+female,group D,high school,standard,none,69.00,77.00,73.00
+female,group D,some high school,standard,none,65.00,82.00,81.00
+female,group D,master's degree,standard,none,54.00,60.00,63.00
+female,group C,high school,standard,none,29.00,29.00,30.00
+female,group E,some college,standard,none,76.00,78.00,80.00
+male,group D,high school,free/reduced,none,60.00,57.00,51.00
+male,group D,master's degree,free/reduced,completed,84.00,89.00,90.00
+male,group C,some high school,standard,none,75.00,72.00,62.00
+female,group C,associate's degree,standard,none,85.00,84.00,82.00
+female,group C,master's degree,free/reduced,none,40.00,58.00,54.00
+female,group E,some college,standard,none,61.00,64.00,62.00
+female,group B,associate's degree,standard,none,58.00,63.00,65.00
+male,group D,some college,free/reduced,completed,69.00,60.00,63.00
+female,group C,some college,standard,none,58.00,59.00,66.00
+male,group C,bachelor's degree,standard,completed,94.00,90.00,91.00
+female,group C,associate's degree,standard,none,65.00,77.00,74.00
+female,group A,associate's degree,standard,none,82.00,93.00,93.00
+female,group C,high school,standard,none,60.00,68.00,72.00
+female,group E,bachelor's degree,standard,none,37.00,45.00,38.00
+male,group D,bachelor's degree,standard,none,88.00,78.00,83.00
+male,group D,master's degree,standard,none,95.00,81.00,84.00
+male,group C,associate's degree,free/reduced,completed,65.00,73.00,68.00
+female,group C,high school,free/reduced,none,35.00,61.00,54.00
+male,group B,bachelor's degree,free/reduced,none,62.00,63.00,56.00
+male,group C,high school,free/reduced,completed,58.00,51.00,52.00
+male,group A,some college,standard,completed,100.00,96.00,86.00
+female,group E,bachelor's degree,free/reduced,none,61.00,58.00,62.00
+male,group D,some college,standard,completed,100.00,97.00,99.00
+male,group B,associate's degree,free/reduced,completed,69.00,70.00,63.00
+male,group D,associate's degree,standard,none,61.00,48.00,46.00
+male,group D,some college,free/reduced,none,49.00,57.00,46.00
+female,group C,some high school,standard,completed,44.00,51.00,55.00
+male,group D,some college,standard,none,67.00,64.00,70.00
+male,group B,high school,standard,none,79.00,60.00,65.00
+female,group B,bachelor's degree,standard,completed,66.00,74.00,81.00
+female,group C,high school,standard,none,75.00,88.00,85.00
+male,group D,some high school,standard,none,84.00,84.00,80.00
+male,group A,high school,standard,none,71.00,74.00,64.00
+female,group B,high school,free/reduced,completed,67.00,80.00,81.00
+female,group D,some high school,standard,completed,80.00,92.00,88.00
+male,group E,some college,standard,none,86.00,76.00,74.00
+female,group D,associate's degree,standard,none,76.00,74.00,73.00
+male,group D,high school,standard,none,41.00,52.00,51.00
+female,group D,associate's degree,free/reduced,completed,74.00,88.00,90.00
+female,group B,some high school,free/reduced,none,72.00,81.00,79.00
+female,group E,high school,standard,completed,74.00,79.00,80.00
+male,group B,high school,standard,none,70.00,65.00,60.00
+female,group B,bachelor's degree,standard,completed,65.00,81.00,81.00
+female,group D,associate's degree,standard,none,59.00,70.00,65.00
+female,group E,high school,free/reduced,none,64.00,62.00,68.00
+female,group B,high school,standard,none,50.00,53.00,55.00
+female,group D,some college,standard,completed,69.00,79.00,81.00
+male,group C,some high school,free/reduced,completed,51.00,56.00,53.00
+female,group A,high school,standard,completed,68.00,80.00,76.00
+female,group D,some college,standard,completed,85.00,86.00,98.00
+female,group A,associate's degree,standard,completed,65.00,70.00,74.00
+female,group B,some high school,standard,none,73.00,79.00,79.00
+female,group B,some college,standard,none,62.00,67.00,67.00
+male,group C,associate's degree,free/reduced,none,77.00,67.00,64.00
+male,group D,some high school,standard,none,69.00,66.00,61.00
+female,group D,associate's degree,free/reduced,none,43.00,60.00,58.00
+male,group D,associate's degree,standard,none,90.00,87.00,85.00
+male,group C,some college,free/reduced,none,74.00,77.00,73.00
+male,group C,some high school,standard,none,73.00,66.00,63.00
+female,group D,some college,free/reduced,none,55.00,71.00,69.00
+female,group C,high school,standard,none,65.00,69.00,67.00
+male,group D,associate's degree,standard,none,80.00,63.00,63.00
+female,group C,some high school,free/reduced,completed,50.00,60.00,60.00
+female,group C,some college,free/reduced,completed,63.00,73.00,71.00
+female,group B,bachelor's degree,free/reduced,none,77.00,85.00,87.00
+male,group C,some college,standard,none,73.00,74.00,61.00
+male,group D,associate's degree,standard,completed,81.00,72.00,77.00
+female,group C,high school,free/reduced,none,66.00,76.00,68.00
+male,group D,associate's degree,free/reduced,none,52.00,57.00,50.00
+female,group C,some college,standard,none,69.00,78.00,76.00
+female,group C,associate's degree,standard,completed,65.00,84.00,84.00
+female,group D,high school,standard,completed,69.00,77.00,78.00
+female,group B,some college,standard,completed,50.00,64.00,66.00
+female,group E,some college,standard,completed,73.00,78.00,76.00
+female,group C,some high school,standard,completed,70.00,82.00,76.00
+male,group D,associate's degree,free/reduced,none,81.00,75.00,78.00
+male,group D,some college,free/reduced,none,63.00,61.00,60.00
+female,group D,high school,standard,none,67.00,72.00,74.00
+male,group B,high school,standard,none,60.00,68.00,60.00
+male,group B,high school,standard,none,62.00,55.00,54.00
+female,group C,some high school,free/reduced,completed,29.00,40.00,44.00
+male,group B,some college,standard,completed,62.00,66.00,68.00
+female,group E,master's degree,standard,completed,94.00,99.00,100.00
+male,group E,some college,standard,completed,85.00,75.00,68.00
+male,group D,associate's degree,free/reduced,none,77.00,78.00,73.00
+male,group A,high school,free/reduced,none,53.00,58.00,44.00
+male,group E,some college,free/reduced,none,93.00,90.00,83.00
+female,group C,associate's degree,standard,none,49.00,53.00,53.00
+female,group E,associate's degree,free/reduced,none,73.00,76.00,78.00
+female,group C,bachelor's degree,free/reduced,completed,66.00,74.00,81.00
+female,group D,associate's degree,standard,none,77.00,77.00,73.00
+female,group C,some high school,standard,none,49.00,63.00,56.00
+female,group D,some college,free/reduced,none,79.00,89.00,86.00
+female,group C,associate's degree,standard,completed,75.00,82.00,90.00
+female,group A,bachelor's degree,standard,none,59.00,72.00,70.00
+female,group D,associate's degree,standard,completed,57.00,78.00,79.00
+male,group C,high school,free/reduced,none,66.00,66.00,59.00
+female,group E,bachelor's degree,standard,completed,79.00,81.00,82.00
+female,group B,some high school,standard,none,57.00,67.00,72.00
+male,group A,bachelor's degree,standard,completed,87.00,84.00,87.00
+female,group D,some college,standard,none,63.00,64.00,67.00
+female,group B,some high school,free/reduced,completed,59.00,63.00,64.00
+male,group A,bachelor's degree,free/reduced,none,62.00,72.00,65.00
+male,group D,high school,standard,none,46.00,34.00,36.00
+male,group C,some college,standard,none,66.00,59.00,52.00
+male,group D,high school,standard,none,89.00,87.00,79.00
+female,group D,associate's degree,free/reduced,completed,42.00,61.00,58.00
+male,group C,some college,standard,completed,93.00,84.00,90.00
+female,group E,some high school,standard,completed,80.00,85.00,85.00
+female,group D,some college,standard,none,98.00,100.00,99.00
+male,group D,master's degree,standard,none,81.00,81.00,84.00
+female,group B,some high school,standard,completed,60.00,70.00,74.00
+female,group B,associate's degree,free/reduced,completed,76.00,94.00,87.00
+male,group C,associate's degree,standard,completed,73.00,78.00,72.00
+female,group C,associate's degree,standard,completed,96.00,96.00,99.00
+female,group C,high school,standard,none,76.00,76.00,74.00
+male,group E,associate's degree,free/reduced,completed,91.00,73.00,80.00
+female,group C,some college,free/reduced,none,62.00,72.00,70.00
+male,group D,some high school,free/reduced,completed,55.00,59.00,59.00
+female,group B,some high school,free/reduced,completed,74.00,90.00,88.00
+male,group C,high school,standard,none,50.00,48.00,42.00
+male,group B,some college,standard,none,47.00,43.00,41.00
+male,group E,some college,standard,completed,81.00,74.00,71.00
+female,group E,associate's degree,standard,completed,65.00,75.00,77.00
+male,group E,some high school,standard,completed,68.00,51.00,57.00
+female,group D,high school,free/reduced,none,73.00,92.00,84.00
+male,group C,some college,standard,none,53.00,39.00,37.00
+female,group B,associate's degree,free/reduced,completed,68.00,77.00,80.00
+male,group A,some high school,free/reduced,none,55.00,46.00,43.00
+female,group C,some college,standard,completed,87.00,89.00,94.00
+male,group D,some high school,standard,none,55.00,47.00,44.00
+female,group E,some college,free/reduced,none,53.00,58.00,57.00
+male,group C,master's degree,standard,none,67.00,57.00,59.00
+male,group C,associate's degree,standard,none,92.00,79.00,84.00
+female,group B,some college,free/reduced,completed,53.00,66.00,73.00
+male,group D,associate's degree,standard,none,81.00,71.00,73.00
+male,group C,high school,free/reduced,none,61.00,60.00,55.00
+male,group D,bachelor's degree,standard,none,80.00,73.00,72.00
+female,group A,associate's degree,free/reduced,none,37.00,57.00,56.00
+female,group C,high school,standard,none,81.00,84.00,82.00
+female,group C,associate's degree,standard,completed,59.00,73.00,72.00
+male,group B,some college,free/reduced,none,55.00,55.00,47.00
+male,group D,associate's degree,standard,none,72.00,79.00,74.00
+male,group D,high school,standard,none,69.00,75.00,71.00
+male,group C,some college,standard,none,69.00,64.00,68.00
+female,group C,bachelor's degree,free/reduced,none,50.00,60.00,59.00
+male,group B,some college,standard,completed,87.00,84.00,86.00
+male,group D,some high school,standard,completed,71.00,69.00,68.00
+male,group E,some college,standard,none,68.00,72.00,65.00
+male,group C,master's degree,free/reduced,completed,79.00,77.00,75.00
+female,group C,some high school,standard,completed,77.00,90.00,85.00
+male,group C,associate's degree,free/reduced,none,58.00,55.00,53.00
+female,group E,associate's degree,standard,none,84.00,95.00,92.00
+male,group D,some college,standard,none,55.00,58.00,52.00
+male,group E,bachelor's degree,free/reduced,completed,70.00,68.00,72.00
+female,group D,some college,free/reduced,completed,52.00,59.00,65.00
+male,group B,some college,standard,completed,69.00,77.00,77.00
+female,group C,high school,free/reduced,none,53.00,72.00,64.00
+female,group D,some high school,standard,none,48.00,58.00,54.00
+male,group D,some high school,standard,completed,78.00,81.00,86.00
+female,group B,high school,standard,none,62.00,62.00,63.00
+male,group D,some college,standard,none,60.00,63.00,59.00
+female,group B,high school,standard,none,74.00,72.00,72.00
+female,group C,high school,standard,completed,58.00,75.00,77.00
+male,group B,high school,standard,completed,76.00,62.00,60.00
+female,group D,some high school,standard,none,68.00,71.00,75.00
+male,group A,some college,free/reduced,none,58.00,60.00,57.00
+male,group B,high school,standard,none,52.00,48.00,49.00
+male,group D,bachelor's degree,standard,none,75.00,73.00,74.00
+female,group B,some high school,free/reduced,completed,52.00,67.00,72.00
+female,group C,bachelor's degree,free/reduced,none,62.00,78.00,79.00
+male,group B,some college,standard,none,66.00,65.00,60.00
+female,group B,some high school,free/reduced,none,49.00,58.00,55.00
+female,group B,high school,standard,none,66.00,72.00,70.00
+female,group C,some college,free/reduced,none,35.00,44.00,43.00
+female,group A,some college,standard,completed,72.00,79.00,82.00
+male,group E,associate's degree,standard,completed,94.00,85.00,82.00
+female,group D,associate's degree,free/reduced,none,46.00,56.00,57.00
+female,group B,master's degree,standard,none,77.00,90.00,84.00
+female,group B,high school,free/reduced,completed,76.00,85.00,82.00
+female,group C,associate's degree,standard,completed,52.00,59.00,62.00
+male,group C,bachelor's degree,standard,completed,91.00,81.00,79.00
+female,group B,some high school,standard,completed,32.00,51.00,44.00
+female,group E,some high school,free/reduced,none,72.00,79.00,77.00
+female,group B,some college,standard,none,19.00,38.00,32.00
+male,group C,associate's degree,free/reduced,none,68.00,65.00,61.00
+female,group C,master's degree,free/reduced,none,52.00,65.00,61.00
+female,group B,high school,standard,none,48.00,62.00,60.00
+female,group D,some college,free/reduced,none,60.00,66.00,70.00
+male,group D,high school,free/reduced,none,66.00,74.00,69.00
+male,group E,some high school,standard,completed,89.00,84.00,77.00
+female,group B,high school,standard,none,42.00,52.00,51.00
+female,group E,associate's degree,free/reduced,completed,57.00,68.00,73.00
+male,group D,high school,standard,none,70.00,70.00,70.00
+female,group E,associate's degree,free/reduced,none,70.00,84.00,81.00
+male,group E,some college,standard,none,69.00,60.00,54.00
+female,group C,associate's degree,standard,none,52.00,55.00,57.00
+male,group C,some high school,standard,completed,67.00,73.00,68.00
+male,group C,some high school,standard,completed,76.00,80.00,73.00
+female,group E,associate's degree,standard,none,87.00,94.00,95.00
+female,group B,some college,standard,none,82.00,85.00,87.00
+female,group C,some college,standard,none,73.00,76.00,78.00
+male,group A,some college,free/reduced,none,75.00,81.00,74.00
+female,group D,some college,free/reduced,none,64.00,74.00,75.00
+female,group E,high school,free/reduced,none,41.00,45.00,40.00
+male,group C,high school,standard,none,90.00,75.00,69.00
+male,group B,bachelor's degree,standard,none,59.00,54.00,51.00
+male,group A,some high school,standard,none,51.00,31.00,36.00
+male,group A,high school,free/reduced,none,45.00,47.00,49.00
+female,group C,master's degree,standard,completed,54.00,64.00,67.00
+male,group E,some high school,standard,completed,87.00,84.00,76.00
+female,group C,high school,standard,none,72.00,80.00,83.00
+male,group B,some high school,standard,completed,94.00,86.00,87.00
+female,group A,bachelor's degree,standard,none,45.00,59.00,64.00
+male,group D,bachelor's degree,free/reduced,completed,61.00,70.00,76.00
+female,group B,high school,free/reduced,none,60.00,72.00,68.00
+female,group C,some high school,standard,none,77.00,91.00,88.00
+female,group A,some high school,standard,completed,85.00,90.00,92.00
+female,group D,bachelor's degree,free/reduced,none,78.00,90.00,93.00
+male,group E,some college,free/reduced,completed,49.00,52.00,51.00
+female,group B,high school,free/reduced,none,71.00,87.00,82.00
+female,group C,some high school,free/reduced,none,48.00,58.00,52.00
+male,group C,high school,standard,none,62.00,67.00,58.00
+female,group C,associate's degree,free/reduced,completed,56.00,68.00,70.00
+female,group C,some high school,standard,none,65.00,69.00,76.00
+female,group D,some high school,free/reduced,completed,69.00,86.00,81.00
+male,group B,some high school,standard,none,68.00,54.00,53.00
+female,group A,some college,free/reduced,none,61.00,60.00,57.00
+female,group C,bachelor's degree,free/reduced,completed,74.00,86.00,89.00
+male,group A,bachelor's degree,standard,none,64.00,60.00,58.00
+female,group B,high school,standard,completed,77.00,82.00,89.00
+male,group B,some college,standard,none,58.00,50.00,45.00
+female,group C,high school,standard,completed,60.00,64.00,74.00
+male,group E,high school,standard,none,73.00,64.00,57.00
+female,group A,high school,standard,completed,75.00,82.00,79.00
+male,group B,associate's degree,free/reduced,completed,58.00,57.00,53.00
+female,group C,associate's degree,standard,none,66.00,77.00,73.00
+female,group D,high school,free/reduced,none,39.00,52.00,46.00
+male,group C,some high school,standard,none,64.00,58.00,51.00
+female,group B,high school,free/reduced,completed,23.00,44.00,36.00
+male,group B,some college,free/reduced,completed,74.00,77.00,76.00
+female,group D,some high school,free/reduced,completed,40.00,65.00,64.00
+male,group E,master's degree,standard,none,90.00,85.00,84.00
+male,group C,master's degree,standard,completed,91.00,85.00,85.00
+male,group D,high school,standard,none,64.00,54.00,50.00
+female,group C,high school,standard,none,59.00,72.00,68.00
+male,group D,associate's degree,standard,none,80.00,75.00,69.00
+male,group C,master's degree,standard,none,71.00,67.00,67.00
+female,group A,high school,standard,none,61.00,68.00,63.00
+female,group E,some college,standard,none,87.00,85.00,93.00
+male,group E,some high school,standard,none,82.00,67.00,61.00
+male,group C,some high school,standard,none,62.00,64.00,55.00
+female,group B,bachelor's degree,standard,none,97.00,97.00,96.00
+male,group B,some college,free/reduced,none,75.00,68.00,65.00
+female,group C,bachelor's degree,standard,none,65.00,79.00,81.00
+male,group B,high school,standard,completed,52.00,49.00,46.00
+male,group C,associate's degree,free/reduced,none,87.00,73.00,72.00
+female,group C,associate's degree,standard,none,53.00,62.00,53.00
+female,group E,master's degree,free/reduced,none,81.00,86.00,87.00
+male,group D,bachelor's degree,free/reduced,completed,39.00,42.00,38.00
+female,group C,some college,standard,completed,71.00,71.00,80.00
+male,group C,associate's degree,standard,none,97.00,93.00,91.00
+male,group D,some college,standard,completed,82.00,82.00,88.00
+male,group C,high school,free/reduced,none,59.00,53.00,52.00
+male,group B,associate's degree,standard,none,61.00,42.00,41.00
+male,group E,associate's degree,free/reduced,completed,78.00,74.00,72.00
+male,group C,associate's degree,free/reduced,none,49.00,51.00,51.00
+male,group B,high school,standard,none,59.00,58.00,47.00
+female,group C,some college,standard,completed,70.00,72.00,76.00
+male,group B,associate's degree,standard,completed,82.00,84.00,78.00
+male,group E,associate's degree,free/reduced,none,90.00,90.00,82.00
+female,group C,bachelor's degree,free/reduced,none,43.00,62.00,61.00
+male,group C,some college,free/reduced,none,80.00,64.00,66.00
+male,group D,some college,standard,none,81.00,82.00,84.00
+male,group C,some high school,standard,none,57.00,61.00,54.00
+female,group D,some high school,standard,none,59.00,72.00,80.00
+female,group D,associate's degree,standard,none,64.00,76.00,74.00
+male,group C,bachelor's degree,standard,completed,63.00,64.00,66.00
+female,group E,bachelor's degree,standard,completed,71.00,70.00,70.00
+female,group B,high school,free/reduced,none,64.00,73.00,71.00
+male,group D,bachelor's degree,free/reduced,none,55.00,46.00,44.00
+female,group E,associate's degree,standard,none,51.00,51.00,54.00
+female,group C,associate's degree,standard,completed,62.00,76.00,80.00
+female,group E,associate's degree,standard,completed,93.00,100.00,95.00
+male,group C,high school,free/reduced,none,54.00,72.00,59.00
+female,group D,some college,free/reduced,none,69.00,65.00,74.00
+male,group D,high school,free/reduced,none,44.00,51.00,48.00
+female,group E,some college,standard,completed,86.00,85.00,91.00
+female,group E,associate's degree,standard,none,85.00,92.00,85.00
+female,group A,master's degree,free/reduced,none,50.00,67.00,73.00
+male,group D,some high school,standard,completed,88.00,74.00,75.00
+female,group E,associate's degree,standard,none,59.00,62.00,69.00
+female,group E,some high school,free/reduced,none,32.00,34.00,38.00
+male,group B,high school,free/reduced,none,36.00,29.00,27.00
+female,group B,some high school,free/reduced,completed,63.00,78.00,79.00
+male,group D,associate's degree,standard,completed,67.00,54.00,63.00
+female,group D,some high school,standard,completed,65.00,78.00,82.00
+male,group D,master's degree,standard,none,85.00,84.00,89.00
+female,group C,master's degree,standard,none,73.00,78.00,74.00
+female,group A,high school,free/reduced,completed,34.00,48.00,41.00
+female,group D,bachelor's degree,free/reduced,completed,93.00,100.00,100.00
+female,group D,some high school,free/reduced,none,67.00,84.00,84.00
+male,group D,some college,standard,none,88.00,77.00,77.00
+male,group B,high school,standard,none,57.00,48.00,51.00
+female,group D,some college,standard,completed,79.00,84.00,91.00
+female,group C,bachelor's degree,free/reduced,none,67.00,75.00,72.00
+male,group E,bachelor's degree,standard,completed,70.00,64.00,70.00
+male,group D,bachelor's degree,free/reduced,none,50.00,42.00,48.00
+female,group A,some college,standard,none,69.00,84.00,82.00
+female,group C,bachelor's degree,standard,completed,52.00,61.00,66.00
+female,group C,bachelor's degree,free/reduced,completed,47.00,62.00,66.00
+female,group B,associate's degree,free/reduced,none,46.00,61.00,55.00
+female,group E,some college,standard,none,68.00,70.00,66.00
+male,group E,bachelor's degree,standard,completed,100.00,100.00,100.00
+female,group C,high school,standard,none,44.00,61.00,52.00
+female,group C,associate's degree,standard,completed,57.00,77.00,80.00
+male,group B,some college,standard,completed,91.00,96.00,91.00
+male,group D,high school,free/reduced,none,69.00,70.00,67.00
+female,group C,high school,free/reduced,none,35.00,53.00,46.00
+male,group D,high school,standard,none,72.00,66.00,66.00
+female,group B,associate's degree,free/reduced,none,54.00,65.00,65.00
+male,group D,high school,free/reduced,none,74.00,70.00,69.00
+male,group E,some high school,standard,completed,74.00,64.00,60.00
+male,group E,associate's degree,free/reduced,none,64.00,56.00,52.00
+female,group D,high school,free/reduced,completed,65.00,61.00,71.00
+male,group E,associate's degree,free/reduced,completed,46.00,43.00,44.00
+female,group C,some high school,free/reduced,none,48.00,56.00,51.00
+male,group C,some college,free/reduced,completed,67.00,74.00,70.00
+male,group D,some college,free/reduced,none,62.00,57.00,62.00
+male,group D,associate's degree,free/reduced,completed,61.00,71.00,73.00
+male,group C,bachelor's degree,free/reduced,completed,70.00,75.00,74.00
+male,group C,associate's degree,standard,completed,98.00,87.00,90.00
+male,group D,some college,free/reduced,none,70.00,63.00,58.00
+male,group A,associate's degree,standard,none,67.00,57.00,53.00
+female,group E,high school,free/reduced,none,57.00,58.00,57.00
+male,group D,some college,standard,completed,85.00,81.00,85.00
+male,group D,some high school,standard,completed,77.00,68.00,69.00
+male,group C,master's degree,free/reduced,completed,72.00,66.00,72.00
+female,group D,master's degree,standard,none,78.00,91.00,96.00
+male,group C,high school,standard,none,81.00,66.00,64.00
+male,group A,some high school,free/reduced,completed,61.00,62.00,61.00
+female,group B,high school,standard,none,58.00,68.00,61.00
+female,group C,associate's degree,standard,none,54.00,61.00,58.00
+male,group B,high school,standard,none,82.00,82.00,80.00
+female,group D,some college,free/reduced,none,49.00,58.00,60.00
+male,group B,some high school,free/reduced,completed,49.00,50.00,52.00
+female,group E,high school,free/reduced,completed,57.00,75.00,73.00
+male,group E,high school,standard,none,94.00,73.00,71.00
+female,group D,some college,standard,completed,75.00,77.00,83.00
+female,group E,some high school,free/reduced,none,74.00,74.00,72.00
+male,group C,high school,standard,completed,58.00,52.00,54.00
+female,group C,some college,standard,none,62.00,69.00,69.00
+male,group E,associate's degree,standard,none,72.00,57.00,62.00
+male,group C,some college,standard,none,84.00,87.00,81.00
+female,group D,master's degree,standard,none,92.00,100.00,100.00
+female,group D,high school,standard,none,45.00,63.00,59.00
+male,group C,high school,standard,none,75.00,81.00,71.00
+female,group A,some college,standard,none,56.00,58.00,64.00
+female,group D,some high school,free/reduced,none,48.00,54.00,53.00
+female,group E,associate's degree,standard,none,100.00,100.00,100.00
+female,group C,some high school,free/reduced,completed,65.00,76.00,75.00
+male,group D,some college,standard,none,72.00,57.00,58.00
+female,group D,some college,standard,none,62.00,70.00,72.00
+male,group A,some high school,standard,completed,66.00,68.00,64.00
+male,group C,some college,standard,none,63.00,63.00,60.00
+female,group E,associate's degree,standard,none,68.00,76.00,67.00
+female,group B,bachelor's degree,standard,none,75.00,84.00,80.00
+female,group D,bachelor's degree,standard,none,89.00,100.00,100.00
+male,group C,some high school,standard,completed,78.00,72.00,69.00
+female,group A,high school,free/reduced,completed,53.00,50.00,60.00
+female,group D,some college,free/reduced,none,49.00,65.00,61.00
+female,group A,some college,standard,none,54.00,63.00,67.00
+female,group C,some college,standard,completed,64.00,82.00,77.00
+male,group B,some college,free/reduced,completed,60.00,62.00,60.00
+male,group C,associate's degree,standard,none,62.00,65.00,58.00
+male,group D,high school,standard,completed,55.00,41.00,48.00
+female,group C,associate's degree,standard,none,91.00,95.00,94.00
+female,group B,high school,free/reduced,none,8.00,24.00,23.00
+male,group D,some high school,standard,none,81.00,78.00,78.00
+male,group B,some high school,standard,completed,79.00,85.00,86.00
+female,group A,some college,standard,completed,78.00,87.00,91.00
+female,group C,some high school,standard,none,74.00,75.00,82.00
+male,group A,high school,standard,none,57.00,51.00,54.00
+female,group C,associate's degree,standard,none,40.00,59.00,51.00
+male,group E,some high school,standard,completed,81.00,75.00,76.00
+female,group A,some high school,free/reduced,none,44.00,45.00,45.00
+female,group D,some college,free/reduced,completed,67.00,86.00,83.00
+male,group E,high school,free/reduced,completed,86.00,81.00,75.00
+female,group B,some high school,standard,completed,65.00,82.00,78.00
+female,group D,associate's degree,free/reduced,none,55.00,76.00,76.00
+female,group D,bachelor's degree,free/reduced,none,62.00,72.00,74.00
+male,group A,high school,standard,none,63.00,63.00,62.00
+female,group E,master's degree,standard,completed,88.00,99.00,95.00
+male,group C,high school,free/reduced,none,62.00,55.00,55.00
+female,group C,high school,free/reduced,completed,59.00,71.00,65.00
+female,group D,some college,standard,completed,68.00,78.00,77.00
+female,group D,some college,free/reduced,none,77.00,86.00,86.00
